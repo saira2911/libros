@@ -1,0 +1,1495 @@
+[
+    {
+        "genero": "Fiction",
+        "titulo": "Yellowface",
+        "autor": "R.F. Kuang",
+        "precio": 14.99,
+        "puntuacion": 3.78,
+        "fecha_publicacion": "16/05/2023",
+        "n_paginas": 336,
+        "tapa": "Hardcover",
+        "premios": [
+            "British Book Award for Fiction (2024)",
+            " Audie Award Nominee for Fiction (2024)",
+            " Los Angeles Times Book Prize Nominee for Audiobook (2023)",
+            " Goodreads Choice Award for Fiction (2023)",
+            " New England Book Award for Fiction (2023)",
+            " She Reads Best of Award for Book of the Year (2023)",
+            " Barnes & Noble Book of the Year Award Nominee (2023)"
+        ]
+    },
+    {
+        "genero": "Fiction",
+        "titulo": "Hello Beautiful",
+        "autor": "Ann Napolitano",
+        "precio": 14.99,
+        "puntuacion": 4.17,
+        "fecha_publicacion": "14/03/2023",
+        "n_paginas": 416,
+        "tapa": "Kindle Edition",
+        "premios": [
+            "Goodreads Choice Award Nominee for Fiction (2023)",
+            " She Reads Best of Award for Literary Fiction and Nominee for Book of the Year (2023)"
+        ]
+    },
+    {
+        "genero": "Fiction",
+        "titulo": "The Wishing Game",
+        "autor": "Meg Shaffer",
+        "precio": 12.99,
+        "puntuacion": 4.09,
+        "fecha_publicacion": "30/05/2023",
+        "n_paginas": 304,
+        "tapa": "Hardcover",
+        "premios": [
+            "Goodreads Choice Award Nominee for Fiction (2023)",
+            " Book of the Month Book of the Year Award Nominee (2023)"
+        ]
+    },
+    {
+        "genero": "Fiction",
+        "titulo": "Tom Lake",
+        "autor": "Ann Patchett",
+        "precio": 15.99,
+        "puntuacion": 4.01,
+        "fecha_publicacion": "01/08/2023",
+        "n_paginas": 309,
+        "tapa": "Hardcover",
+        "premios": [
+            "Audie Award for Fiction and Nominee for Best Fiction Narrator and for Audiobook of the Year (2024)",
+            " Australian Book Industry Award (ABIA) Nominee for International Book (2024)",
+            " Goodreads Choice Award Nominee for Fiction (2023)",
+            " Libby Award Nominee for Best Adult Fiction (2023)"
+        ]
+    },
+    {
+        "genero": "Fiction",
+        "titulo": "The Five-Star Weekend",
+        "autor": "Elin Hilderbrand",
+        "precio": 9.99,
+        "puntuacion": 4.06,
+        "fecha_publicacion": "13/06/2023",
+        "n_paginas": 384,
+        "tapa": "Hardcover",
+        "premios": [
+            "Goodreads Choice Award Nominee for Fiction (2023)"
+        ]
+    },
+    {
+        "genero": "Fiction",
+        "titulo": "Someone Else's Shoes",
+        "autor": "Jojo Moyes",
+        "precio": 12.99,
+        "puntuacion": 3.96,
+        "fecha_publicacion": "02/02/2023",
+        "n_paginas": 438,
+        "tapa": "Hardcover",
+        "premios": [
+            "Goodreads Choice Award Nominee for Fiction (2023)"
+        ]
+    },
+    {
+        "genero": "Fiction",
+        "titulo": "The Invisible Hour",
+        "autor": "Alice Hoffman",
+        "precio": 13.99,
+        "puntuacion": 3.61,
+        "fecha_publicacion": "15/08/2023",
+        "n_paginas": 272,
+        "tapa": "Hardcover",
+        "premios": [
+            "Goodreads Choice Award Nominee for Fiction (2023)"
+        ]
+    },
+    {
+        "genero": "Historical Fiction",
+        "titulo": "Weyward",
+        "autor": "Emilia Hart",
+        "precio": 11.99,
+        "puntuacion": 4.08,
+        "fecha_publicacion": "02/02/2023",
+        "n_paginas": 329,
+        "tapa": "Hardcover",
+        "premios": [
+            "Goodreads Choice Award for Historical Fiction and for Debut Novel (2023)",
+            " Book of the Month Book of the Year Award Nominee (2023)"
+        ]
+    },
+    {
+        "genero": "Historical Fiction",
+        "titulo": "The Covenant of Water",
+        "autor": "Abraham Verghese",
+        "precio": 9.24,
+        "puntuacion": 4.46,
+        "fecha_publicacion": "02/05/2023",
+        "n_paginas": 724,
+        "tapa": "Hardcover",
+        "premios": [
+            "California Book Award Nominee for Fiction (2023)",
+            " Audie Award Nominee for Narration by the Author (2024)",
+            " Goodreads Choice Award Nominee for Historical Fiction (2023)"
+        ]
+    },
+    {
+        "genero": "Historical Fiction",
+        "titulo": "Lady Tan’s Circle of Women",
+        "autor": "Lisa See",
+        "precio": 13.99,
+        "puntuacion": 4.36,
+        "fecha_publicacion": "06/06/2023",
+        "n_paginas": 352,
+        "tapa": "Hardcover",
+        "premios": [
+            "Goodreads Choice Award Nominee for Historical Fiction (2023)",
+            " Book of the Month Book of the Year Award Nominee (2023)"
+        ]
+    },
+    {
+        "genero": "Historical Fiction",
+        "titulo": "The Heaven & Earth Grocery Store",
+        "autor": "James McBride",
+        "precio": 14.99,
+        "puntuacion": 4.03,
+        "fecha_publicacion": "08/08/2023",
+        "n_paginas": 380,
+        "tapa": "Hardcover",
+        "premios": [
+            "National Jewish Book Award for Book Club Award (2023)",
+            " PEN/Faulkner Award for Fiction Nominee for Longlist (2024)",
+            " Goodreads Choice Award Nominee for Historical Fiction (2023)",
+            " NAACP Image Award Nominee for Fiction (2024)",
+            " Barnes & Noble Book of the Year Award (2023)",
+            " Libby Award for Best Adult Fiction (2023)"
+        ]
+    },
+    {
+        "genero": "Historical Fiction",
+        "titulo": "The Keeper of Hidden Books",
+        "autor": "Madeline Martin",
+        "precio": 12.99,
+        "puntuacion": 4.13,
+        "fecha_publicacion": "01/08/2023",
+        "n_paginas": 416,
+        "tapa": "Paperback",
+        "premios": [
+            "Goodreads Choice Award Nominee for Historical Fiction (2023)"
+        ]
+    },
+    {
+        "genero": "Historical Fiction",
+        "titulo": "The Echo of Old Books",
+        "autor": "Barbara Davis",
+        "precio": "Kindle Unlimited $0.00",
+        "puntuacion": 4.29,
+        "fecha_publicacion": "28/03/2023",
+        "n_paginas": 431,
+        "tapa": "Kindle Edition",
+        "premios": [
+            "Goodreads Choice Award Nominee for Historical Fiction (2023)"
+        ]
+    },
+    {
+        "genero": "Historical Fiction",
+        "titulo": "The House of Eve",
+        "autor": "Sadeqa Johnson",
+        "precio": 13.99,
+        "puntuacion": 4.26,
+        "fecha_publicacion": "07/02/2023",
+        "n_paginas": 384,
+        "tapa": "Hardcover",
+        "premios": [
+            "Goodreads Choice Award Nominee for Historical Fiction (2023)",
+            " NAACP Image Award Nominee for Fiction (2024)"
+        ]
+    },
+    {
+        "genero": "Mystery & Thriller",
+        "titulo": "The Housemaid's Secret",
+        "autor": "Freida McFadden",
+        "precio": "Shop this series",
+        "puntuacion": 4.26,
+        "fecha_publicacion": "15/02/2023",
+        "n_paginas": 318,
+        "tapa": "Kindle Edition",
+        "premios": [
+            "British Book Award Nominee for Audiobook: Fiction (2024)",
+            " Goodreads Choice Award for Mystery/Thriller (2023)"
+        ]
+    },
+    {
+        "genero": "Mystery & Thriller",
+        "titulo": "None of This Is True",
+        "autor": "Lisa Jewell",
+        "precio": 14.99,
+        "puntuacion": 4.13,
+        "fecha_publicacion": "20/07/2023",
+        "n_paginas": 380,
+        "tapa": "Hardcover",
+        "premios": [
+            "British Book Award for Crime and Thriller and for Audiobook: Fiction (2024)",
+            " Audie Award Nominee for Audio Drama and Thriller/Suspense (2024)",
+            " Goodreads Choice Award Nominee for Mystery/Thriller (2023)",
+            " Book of the Month Book of the Year Award Nominee (2023)"
+        ]
+    },
+    {
+        "genero": "Mystery & Thriller",
+        "titulo": "The Only One Left",
+        "autor": "Riley Sager",
+        "precio": 12.99,
+        "puntuacion": 4.14,
+        "fecha_publicacion": "20/06/2023",
+        "n_paginas": 385,
+        "tapa": "Hardcover",
+        "premios": [
+            "Goodreads Choice Award Nominee for Mystery/Thriller (2023)"
+        ]
+    },
+    {
+        "genero": "Mystery & Thriller",
+        "titulo": "The Last Devil to Die",
+        "autor": "Richard Osman",
+        "precio": "Shop this series",
+        "puntuacion": 4.5,
+        "fecha_publicacion": "14/09/2023",
+        "n_paginas": 422,
+        "tapa": "Hardcover",
+        "premios": [
+            "Anthony Award Nominee for Best Hardcover Novel (2024)",
+            " British Book Award Nominee for Crime and Thriller (2024)",
+            " Goodreads Choice Award Nominee for Mystery/Thriller (2023)",
+            " Libby Award Nominee for Best Mystery (2023)"
+        ]
+    },
+    {
+        "genero": "Mystery & Thriller",
+        "titulo": "Vera Wong's Unsolicited Advice for Murderers",
+        "autor": "Jesse Q. Sutanto",
+        "precio": 12.99,
+        "puntuacion": 4.04,
+        "fecha_publicacion": "14/03/2023",
+        "n_paginas": 339,
+        "tapa": "Hardcover",
+        "premios": [
+            "Barry Award Nominee for Best Paperback Original Mystery or Crime Novel (2024)",
+            " Audie Award for Mystery (2024)",
+            " Edgar Award for Best Paperback Original (2024)",
+            " Goodreads Choice Award Nominee for Mystery/Thriller (2023)",
+            " Libby Award for Best Mystery (2023)"
+        ]
+    },
+    {
+        "genero": "Mystery & Thriller",
+        "titulo": "Bright Young Women",
+        "autor": "Jessica Knoll",
+        "precio": 14.99,
+        "puntuacion": 4.02,
+        "fecha_publicacion": "19/09/2023",
+        "n_paginas": 384,
+        "tapa": "Hardcover",
+        "premios": [
+            "Edgar Award Nominee for Best Novel (2024)",
+            " Goodreads Choice Award Nominee for Mystery/Thriller (2023)",
+            " Libby Award for Best Thriller (2023)"
+        ]
+    },
+    {
+        "genero": "Mystery & Thriller",
+        "titulo": "All the Dangerous Things",
+        "autor": "Stacy Willingham",
+        "precio": "Kindle Unlimited $0.00",
+        "puntuacion": 4.07,
+        "fecha_publicacion": "10/01/2023",
+        "n_paginas": 326,
+        "tapa": "Hardcover",
+        "premios": [
+            "Goodreads Choice Award Nominee for Mystery/Thriller (2023)"
+        ]
+    },
+    {
+        "genero": "Romance",
+        "titulo": "Happy Place",
+        "autor": "Emily Henry",
+        "precio": 11.99,
+        "puntuacion": 4.0,
+        "fecha_publicacion": "25/04/2023",
+        "n_paginas": 400,
+        "tapa": "Hardcover",
+        "premios": [
+            "Goodreads Choice Award for Romance (2023)",
+            " She Reads Best of Award for Romance (2023)"
+        ]
+    },
+    {
+        "genero": "Romance",
+        "titulo": "Love, Theoretically",
+        "autor": "Ali Hazelwood",
+        "precio": 10.99,
+        "puntuacion": 4.12,
+        "fecha_publicacion": "13/06/2023",
+        "n_paginas": 389,
+        "tapa": "Paperback",
+        "premios": [
+            "Goodreads Choice Award Nominee for Romance (2023)"
+        ]
+    },
+    {
+        "genero": "Romance",
+        "titulo": "Yours Truly",
+        "autor": "Abby Jimenez",
+        "precio": "Shop this series",
+        "puntuacion": 4.33,
+        "fecha_publicacion": "11/04/2023",
+        "n_paginas": 416,
+        "tapa": "Paperback",
+        "premios": [
+            "Goodreads Choice Award Nominee for Romance (2023)",
+            " Book of the Month Book of the Year Award (2023)"
+        ]
+    },
+    {
+        "genero": "Romance",
+        "titulo": "Things We Hide from the Light",
+        "autor": "Lucy Score",
+        "precio": "Shop this series",
+        "puntuacion": 4.06,
+        "fecha_publicacion": "21/02/2023",
+        "n_paginas": 594,
+        "tapa": "Kindle Edition",
+        "premios": [
+            "Goodreads Choice Award Nominee for Romance (2023)"
+        ]
+    },
+    {
+        "genero": "Romance",
+        "titulo": "Romantic Comedy",
+        "autor": "Curtis Sittenfeld",
+        "precio": 12.99,
+        "puntuacion": 3.65,
+        "fecha_publicacion": "04/04/2023",
+        "n_paginas": 309,
+        "tapa": "Hardcover",
+        "premios": [
+            "Goodreads Choice Award Nominee for Romance (2023)"
+        ]
+    },
+    {
+        "genero": "Romance",
+        "titulo": "Final Offer",
+        "autor": "Lauren Asher",
+        "precio": "Shop this series",
+        "puntuacion": 4.23,
+        "fecha_publicacion": "23/01/2023",
+        "n_paginas": 583,
+        "tapa": "Paperback",
+        "premios": [
+            "Goodreads Choice Award Nominee for Romance (2023)"
+        ]
+    },
+    {
+        "genero": "Romance",
+        "titulo": "King of Pride",
+        "autor": "Ana Huang",
+        "precio": "Shop this series",
+        "puntuacion": 3.95,
+        "fecha_publicacion": "27/04/2023",
+        "n_paginas": 358,
+        "tapa": "Kindle Edition",
+        "premios": [
+            "Goodreads Choice Award Nominee for Romance (2023)"
+        ]
+    },
+    {
+        "genero": "Romantasy",
+        "titulo": "Fourth Wing",
+        "autor": "Rebecca Yarros",
+        "precio": "Shop this series",
+        "puntuacion": 4.58,
+        "fecha_publicacion": "02/05/2023",
+        "n_paginas": 517,
+        "tapa": "Hardcover",
+        "premios": [
+            "British Book Award for Pageturner (2024)",
+            " ALA Alex Award (2024)",
+            " Deutscher Jugendliteraturpreis Nominee for Preis der Jugendjury (2024)",
+            " Australian Book Industry Award (ABIA) for International Book (2024)",
+            " Goodreads Choice Award for Romantasy (2023)",
+            " She Reads Best of Award for Fantasy & Magical Realism and Nominee for Book of the Year (2023)",
+            " Barnes & Noble Book of the Year Award Nominee (2023)",
+            " Libby Award for Best Fantasy (2023)"
+        ]
+    },
+    {
+        "genero": "Romantasy",
+        "titulo": "Assistant to the Villain",
+        "autor": "Hannah Nicole Maehrer",
+        "precio": 12.99,
+        "puntuacion": 3.89,
+        "fecha_publicacion": "29/08/2023",
+        "n_paginas": 342,
+        "tapa": "Paperback",
+        "premios": [
+            "Goodreads Choice Award Nominee for Romantasy (2023)"
+        ]
+    },
+    {
+        "genero": "Romantasy",
+        "titulo": "The Ashes & the Star-Cursed King",
+        "autor": "Carissa Broadbent",
+        "precio": "Shop this series",
+        "puntuacion": 4.16,
+        "fecha_publicacion": "14/04/2023",
+        "n_paginas": 665,
+        "tapa": "Kindle Edition",
+        "premios": [
+            "Goodreads Choice Award Nominee for Romantasy (2023)"
+        ]
+    },
+    {
+        "genero": "Romantasy",
+        "titulo": "A Soul of Ash and Blood",
+        "autor": "Jennifer L. Armentrout",
+        "precio": "Shop this series",
+        "puntuacion": 3.93,
+        "fecha_publicacion": "18/07/2023",
+        "n_paginas": 703,
+        "tapa": "Kindle Edition",
+        "premios": [
+            "Goodreads Choice Award Nominee for Romantasy (2023)"
+        ]
+    },
+    {
+        "genero": "Romantasy",
+        "titulo": "Sorrow and Starlight",
+        "autor": "Caroline Peckham",
+        "precio": "Shop this series",
+        "puntuacion": 4.06,
+        "fecha_publicacion": "11/12/2022",
+        "n_paginas": 1242,
+        "tapa": "Kindle Edition",
+        "premios": [
+            "Goodreads Choice Award Nominee for Romantasy (2023)"
+        ]
+    },
+    {
+        "genero": "Romantasy",
+        "titulo": "Throne of the Fallen",
+        "autor": "Kerri Maniscalco",
+        "precio": "Shop this series",
+        "puntuacion": 4.1,
+        "fecha_publicacion": "03/10/2023",
+        "n_paginas": 628,
+        "tapa": "Kindle Edition",
+        "premios": [
+            "Goodreads Choice Award Nominee for Romantasy (2023)"
+        ]
+    },
+    {
+        "genero": "Romantasy",
+        "titulo": "The Hurricane Wars",
+        "autor": "Thea Guanzon",
+        "precio": "Shop this series",
+        "puntuacion": 3.66,
+        "fecha_publicacion": "03/10/2023",
+        "n_paginas": 472,
+        "tapa": "Hardcover",
+        "premios": [
+            "Goodreads Choice Award Nominee for Romantasy (2023)",
+            " Libby Award Nominee for Best Romantasy (2023)"
+        ]
+    },
+    {
+        "genero": "Fantasy",
+        "titulo": "Hell Bent",
+        "autor": "Leigh Bardugo",
+        "precio": "Shop this series",
+        "puntuacion": 4.14,
+        "fecha_publicacion": "10/01/2023",
+        "n_paginas": 481,
+        "tapa": "Hardcover",
+        "premios": [
+            "Goodreads Choice Award for Fantasy (2023)",
+            " Libby Award Nominee for Best Fantasy (2023)"
+        ]
+    },
+    {
+        "genero": "Fantasy",
+        "titulo": "Tress of the Emerald Sea",
+        "autor": "Brandon Sanderson",
+        "precio": "Shop this series",
+        "puntuacion": 4.41,
+        "fecha_publicacion": "10/01/2023",
+        "n_paginas": 369,
+        "tapa": "Hardcover",
+        "premios": [
+            "Goodreads Choice Award Nominee for Fantasy (2023)"
+        ]
+    },
+    {
+        "genero": "Fantasy",
+        "titulo": "A Day of Fallen Night",
+        "autor": "Samantha Shannon",
+        "precio": "Shop this series",
+        "puntuacion": 4.37,
+        "fecha_publicacion": "28/02/2023",
+        "n_paginas": 868,
+        "tapa": "Hardcover",
+        "premios": [
+            "Goodreads Choice Award Nominee for Fantasy (2023)",
+            " Libby Award Nominee for Best Fantasy (2023)"
+        ]
+    },
+    {
+        "genero": "Fantasy",
+        "titulo": "Emily Wilde's Encyclopaedia of Faeries",
+        "autor": "Heather Fawcett",
+        "precio": "Shop this series",
+        "puntuacion": 4.03,
+        "fecha_publicacion": "10/01/2023",
+        "n_paginas": 317,
+        "tapa": "Hardcover",
+        "premios": [
+            "Locus Award Nominee for Fantasy (2024)",
+            " Goodreads Choice Award Nominee for Fantasy (2023)",
+            " Libby Award Nominee for Best Romantasy (2023)"
+        ]
+    },
+    {
+        "genero": "Fantasy",
+        "titulo": "Bookshops & Bonedust",
+        "autor": "Travis Baldree",
+        "precio": "Shop this series",
+        "puntuacion": 4.22,
+        "fecha_publicacion": "07/11/2023",
+        "n_paginas": 352,
+        "tapa": "Paperback",
+        "premios": [
+            "Goodreads Choice Award Nominee for Fantasy (2023)"
+        ]
+    },
+    {
+        "genero": "Fantasy",
+        "titulo": "The Fragile Threads of Power",
+        "autor": "Victoria Schwab",
+        "precio": "Shop this series",
+        "puntuacion": 4.32,
+        "fecha_publicacion": "26/09/2023",
+        "n_paginas": 648,
+        "tapa": "Hardcover",
+        "premios": [
+            "Los Angeles Times Book Prize Nominee for Sci-Fi/Fantasy (2023)",
+            " Goodreads Choice Award Nominee for Fantasy (2023)"
+        ]
+    },
+    {
+        "genero": "Fantasy",
+        "titulo": "Sword Catcher",
+        "autor": "Cassandra Clare",
+        "precio": "Shop this series",
+        "puntuacion": 3.8,
+        "fecha_publicacion": "10/10/2023",
+        "n_paginas": 624,
+        "tapa": "Hardcover",
+        "premios": [
+            "Goodreads Choice Award Nominee for Fantasy (2023)"
+        ]
+    },
+    {
+        "genero": "Science Fiction",
+        "titulo": "In the Lives of Puppets",
+        "autor": "T.J. Klune",
+        "precio": 12.99,
+        "puntuacion": 3.93,
+        "fecha_publicacion": "25/04/2023",
+        "n_paginas": 432,
+        "tapa": "Hardcover",
+        "premios": [
+            "Goodreads Choice Award for Science Fiction (2023)"
+        ]
+    },
+    {
+        "genero": "Science Fiction",
+        "titulo": "Light Bringer",
+        "autor": "Pierce Brown",
+        "precio": "Shop this series",
+        "puntuacion": 4.75,
+        "fecha_publicacion": "25/07/2023",
+        "n_paginas": 682,
+        "tapa": "Hardcover",
+        "premios": [
+            "Goodreads Choice Award Nominee for Science Fiction (2023)"
+        ]
+    },
+    {
+        "genero": "Science Fiction",
+        "titulo": "Starter Villain",
+        "autor": "John Scalzi",
+        "precio": 14.99,
+        "puntuacion": 4.17,
+        "fecha_publicacion": "19/09/2023",
+        "n_paginas": 264,
+        "tapa": "Hardcover",
+        "premios": [
+            "Hugo Award Nominee for Best Novel (2024)",
+            " Locus Award Nominee for Science Fiction (2024)",
+            " ALA Alex Award (2024)",
+            " Goodreads Choice Award Nominee for Science Fiction (2023)"
+        ]
+    },
+    {
+        "genero": "Science Fiction",
+        "titulo": "The Marriage Act",
+        "autor": "John Marrs",
+        "precio": 14.99,
+        "puntuacion": 3.82,
+        "fecha_publicacion": "19/01/2023",
+        "n_paginas": 432,
+        "tapa": "Hardcover",
+        "premios": [
+            "Goodreads Choice Award Nominee for Science Fiction (2023)"
+        ]
+    },
+    {
+        "genero": "Science Fiction",
+        "titulo": "System Collapse",
+        "autor": "Martha Wells",
+        "precio": "Shop this series",
+        "puntuacion": 4.22,
+        "fecha_publicacion": "13/11/2023",
+        "n_paginas": 245,
+        "tapa": "Hardcover",
+        "premios": [
+            "Locus Award Nominee for Science Fiction (2024)",
+            " Goodreads Choice Award Nominee for Science Fiction (2023)",
+            " Libby Award for Best Science Fiction (2023)"
+        ]
+    },
+    {
+        "genero": "Science Fiction",
+        "titulo": "Chain-Gang All-Stars",
+        "autor": "Nana Kwame Adjei-Brenyah",
+        "precio": 12.99,
+        "puntuacion": 4.14,
+        "fecha_publicacion": "02/05/2023",
+        "n_paginas": 367,
+        "tapa": "Hardcover",
+        "premios": [
+            "Locus Award Nominee for First Novel (2024)",
+            " ALA Alex Award (2024)",
+            " Chautauqua Prize Nominee (2024)",
+            " National Book Award Finalist for Fiction (2023)",
+            " Goodreads Choice Award Nominee for Science Fiction and for Debut Novel (2023)",
+            " Gordon Burn Prize Nominee for Longlist (2023)",
+            " The Center for Fiction First Novel Prize Nominee for Longlist (2023)",
+            " The Publishing Triangle Award Nominee for LGBTQ+ Fiction (2024)",
+            " She Reads Best of Award for Best Debut and Nominee for Book of the Year (2023)",
+            " Libby Award Nominee for Best Debut (2023)\nShow more"
+        ]
+    },
+    {
+        "genero": "Science Fiction",
+        "titulo": "The Light Pirate",
+        "autor": "Lily Brooks-Dalton",
+        "precio": "Kindle Unlimited $0.00",
+        "puntuacion": 4.05,
+        "fecha_publicacion": "06/12/2022",
+        "n_paginas": 336,
+        "tapa": "Hardcover",
+        "premios": [
+            "Dayton Literary Peace Prize Nominee for Fiction (2023)",
+            " Goodreads Choice Award Nominee for Science Fiction (2023)"
+        ]
+    },
+    {
+        "genero": "Horror",
+        "titulo": "Holly",
+        "autor": "Stephen King",
+        "precio": 14.99,
+        "puntuacion": 4.13,
+        "fecha_publicacion": "05/09/2023",
+        "n_paginas": 449,
+        "tapa": "Hardcover",
+        "premios": [
+            "Goodreads Choice Award for Horror (2023)"
+        ]
+    },
+    {
+        "genero": "Horror",
+        "titulo": "How to Sell a Haunted House",
+        "autor": "Grady Hendrix",
+        "precio": 4.99,
+        "puntuacion": 3.69,
+        "fecha_publicacion": "17/01/2023",
+        "n_paginas": 419,
+        "tapa": "Hardcover",
+        "premios": [
+            "Bram Stoker Award Nominee for Best Novel (2023)",
+            " Locus Award Nominee for Horror (2024)",
+            " Goodreads Choice Award Nominee for Horror (2023)"
+        ]
+    },
+    {
+        "genero": "Horror",
+        "titulo": "A House with Good Bones",
+        "autor": "T. Kingfisher",
+        "precio": 12.99,
+        "puntuacion": 3.69,
+        "fecha_publicacion": "28/03/2023",
+        "n_paginas": 247,
+        "tapa": "Hardcover",
+        "premios": [
+            "Locus Award Nominee for Horror (2024)",
+            " Goodreads Choice Award Nominee for Horror (2023)"
+        ]
+    },
+    {
+        "genero": "Horror",
+        "titulo": "Vampires of El Norte",
+        "autor": "Isabel Cañas",
+        "precio": 13.99,
+        "puntuacion": 3.9,
+        "fecha_publicacion": "15/08/2023",
+        "n_paginas": 371,
+        "tapa": "Hardcover",
+        "premios": [
+            "Locus Award Nominee for Horror (2024)",
+            " Goodreads Choice Award Nominee for Horror (2023)"
+        ]
+    },
+    {
+        "genero": "Horror",
+        "titulo": "Rouge",
+        "autor": "Mona Awad",
+        "precio": 13.99,
+        "puntuacion": 3.57,
+        "fecha_publicacion": "12/09/2023",
+        "n_paginas": 383,
+        "tapa": "Kindle Edition",
+        "premios": [
+            "Goodreads Choice Award Nominee for Horror (2023)"
+        ]
+    },
+    {
+        "genero": "Horror",
+        "titulo": "My Darling Girl",
+        "autor": "Jennifer McMahon",
+        "precio": 14.99,
+        "puntuacion": 3.75,
+        "fecha_publicacion": "03/10/2023",
+        "n_paginas": 320,
+        "tapa": "Hardcover",
+        "premios": [
+            "Goodreads Choice Award Nominee for Horror (2023)"
+        ]
+    },
+    {
+        "genero": "Horror",
+        "titulo": "The September House",
+        "autor": "Carissa Orlando",
+        "precio": 14.99,
+        "puntuacion": 3.92,
+        "fecha_publicacion": "05/09/2023",
+        "n_paginas": 344,
+        "tapa": "Hardcover",
+        "premios": [
+            "Goodreads Choice Award Nominee for Horror and for Debut Novel (2023)"
+        ]
+    },
+    {
+        "genero": "Young Adult Fantasy & Science Fiction",
+        "titulo": "Divine Rivals",
+        "autor": "Rebecca Ross",
+        "precio": "Shop this series",
+        "puntuacion": 4.21,
+        "fecha_publicacion": "04/04/2023",
+        "n_paginas": 357,
+        "tapa": "Hardcover",
+        "premios": [
+            "Locus Award Nominee for Young Adult (2024)",
+            " Rhode Island Teen Book Award Nominee (2025)",
+            " CYBILS Award Nominee for Young Adult Speculative Fiction (2023)",
+            " Goodreads Choice Award for Young Adult Fantasy & Science Fiction (2023)",
+            " Green Mountain Book Award Nominee (2025)",
+            " She Reads Best of Award for Young Adult (2023)",
+            " Barnes & Noble Book of the Year Award Nominee (2023)",
+            " Libby Award for Best Young Adult Fiction (2023)"
+        ]
+    },
+    {
+        "genero": "Young Adult Fantasy & Science Fiction",
+        "titulo": "A Curse for True Love",
+        "autor": "Stephanie Garber",
+        "precio": "Shop this series",
+        "puntuacion": 4.12,
+        "fecha_publicacion": "24/10/2023",
+        "n_paginas": 386,
+        "tapa": "Hardcover",
+        "premios": [
+            "Goodreads Choice Award Nominee for Young Adult Fantasy & Science Fiction (2023)"
+        ]
+    },
+    {
+        "genero": "Young Adult Fantasy & Science Fiction",
+        "titulo": "The Stolen Heir",
+        "autor": "Holly Black",
+        "precio": "Shop this series",
+        "puntuacion": 3.98,
+        "fecha_publicacion": "03/01/2023",
+        "n_paginas": 356,
+        "tapa": "Hardcover",
+        "premios": [
+            "Audie Award Nominee for Young Adult (2024)",
+            " Goodreads Choice Award Nominee for Young Adult Fantasy & Science Fiction (2023)"
+        ]
+    },
+    {
+        "genero": "Young Adult Fantasy & Science Fiction",
+        "titulo": "Chain of Thorns",
+        "autor": "Cassandra Clare",
+        "precio": "Shop this series",
+        "puntuacion": 4.05,
+        "fecha_publicacion": "31/01/2023",
+        "n_paginas": 778,
+        "tapa": "Hardcover",
+        "premios": [
+            "Goodreads Choice Award Nominee for Young Adult Fantasy & Science Fiction (2023)"
+        ]
+    },
+    {
+        "genero": "Young Adult Fantasy & Science Fiction",
+        "titulo": "Powerless",
+        "autor": "Lauren Roberts",
+        "precio": "Shop this series",
+        "puntuacion": 4.26,
+        "fecha_publicacion": "31/01/2023",
+        "n_paginas": 523,
+        "tapa": "Hardcover",
+        "premios": [
+            "British Book Award Nominee for Children's Fiction (2024)",
+            " Goodreads Choice Award Nominee for Young Adult Fantasy & Science Fiction (2023)",
+            " Barnes & Noble Children's & YA Book Award Nominee for Young Adult (2024)"
+        ]
+    },
+    {
+        "genero": "Young Adult Fantasy & Science Fiction",
+        "titulo": "What the River Knows",
+        "autor": "Isabel Ibañez",
+        "precio": "Shop this series",
+        "puntuacion": 3.92,
+        "fecha_publicacion": "31/10/2023",
+        "n_paginas": 404,
+        "tapa": "Hardcover",
+        "premios": [
+            "Goodreads Choice Award Nominee for Young Adult Fantasy & Science Fiction (2023)",
+            " Green Mountain Book Award Nominee (2025)",
+            " Barnes & Noble Children's & YA Book Award Nominee for Young Adult (2024)",
+            " Libby Award Nominee for Best Young Adult Fiction (2023)"
+        ]
+    },
+    {
+        "genero": "Young Adult Fantasy & Science Fiction",
+        "titulo": "A Study in Drowning",
+        "autor": "Ava Reid",
+        "precio": 12.99,
+        "puntuacion": 3.8,
+        "fecha_publicacion": "19/09/2023",
+        "n_paginas": 378,
+        "tapa": "Hardcover",
+        "premios": [
+            "Goodreads Choice Award Nominee for Young Adult Fantasy & Science Fiction (2023)"
+        ]
+    },
+    {
+        "genero": "Young Adult Fiction",
+        "titulo": "Check & Mate",
+        "autor": "Ali Hazelwood",
+        "precio": 8.99,
+        "puntuacion": 3.99,
+        "fecha_publicacion": "07/11/2023",
+        "n_paginas": 352,
+        "tapa": "Paperback",
+        "premios": [
+            "Goodreads Choice Award for Young Adult Fiction (2023)",
+            " Green Mountain Book Award Nominee (2025)",
+            " She Reads Best of Award Nominee for Young Adult (2023)"
+        ]
+    },
+    {
+        "genero": "Young Adult Fiction",
+        "titulo": "The Brothers Hawthorne",
+        "autor": "Jennifer Lynn Barnes",
+        "precio": "Shop this series",
+        "puntuacion": 3.96,
+        "fecha_publicacion": "29/08/2023",
+        "n_paginas": 480,
+        "tapa": "Hardcover",
+        "premios": [
+            "Goodreads Choice Award Nominee for Young Adult Fiction (2023)"
+        ]
+    },
+    {
+        "genero": "Young Adult Fiction",
+        "titulo": "Five Survive",
+        "autor": "Holly Jackson",
+        "precio": 16.99,
+        "puntuacion": 4.07,
+        "fecha_publicacion": "29/11/2022",
+        "n_paginas": 388,
+        "tapa": "Hardcover",
+        "premios": [
+            "Goodreads Choice Award Nominee for Young Adult Fiction (2023)"
+        ]
+    },
+    {
+        "genero": "Young Adult Fiction",
+        "titulo": "One of Us Is Back",
+        "autor": "Karen M. McManus",
+        "precio": 10.99,
+        "puntuacion": 3.97,
+        "fecha_publicacion": "25/07/2023",
+        "n_paginas": 368,
+        "tapa": "Kindle Edition",
+        "premios": [
+            "Goodreads Choice Award Nominee for Young Adult Fiction (2023)"
+        ]
+    },
+    {
+        "genero": "Young Adult Fiction",
+        "titulo": "Immortality: A Love Story",
+        "autor": "Dana Schwartz",
+        "precio": "Shop this series",
+        "puntuacion": 3.93,
+        "fecha_publicacion": "28/02/2023",
+        "n_paginas": 389,
+        "tapa": "Hardcover",
+        "premios": [
+            "Goodreads Choice Award Nominee for Young Adult Fiction (2023)"
+        ]
+    },
+    {
+        "genero": "Young Adult Fiction",
+        "titulo": "Highly Suspicious and Unfairly Cute",
+        "autor": "Talia Hibbert",
+        "precio": 8.99,
+        "puntuacion": 3.73,
+        "fecha_publicacion": "03/01/2023",
+        "n_paginas": 336,
+        "tapa": "ebook",
+        "premios": [
+            "Goodreads Choice Award Nominee for Young Adult Fiction (2023)"
+        ]
+    },
+    {
+        "genero": "Young Adult Fiction",
+        "titulo": "Warrior Girl Unearthed",
+        "autor": "Angeline Boulley",
+        "precio": "Shop this series",
+        "puntuacion": 4.34,
+        "fecha_publicacion": "02/05/2023",
+        "n_paginas": 396,
+        "tapa": "Hardcover",
+        "premios": [
+            "American Indian Youth Literature Award Nominee for Young Adult (2024)",
+            " Boston Globe-Horn Book Award for Fiction & Poetry (2023)",
+            " Goodreads Choice Award Nominee for Young Adult Fiction (2023)",
+            " Green Mountain Book Award Nominee (2025)",
+            " She Reads Best of Award Nominee for Young Adult (2023)",
+            " Libby Award Nominee for Best Young Adult Fiction (2023)"
+        ]
+    },
+    {
+        "genero": "Debut Novel",
+        "titulo": "Weyward",
+        "autor": "Emilia Hart",
+        "precio": 11.99,
+        "puntuacion": 4.08,
+        "fecha_publicacion": "02/02/2023",
+        "n_paginas": 329,
+        "tapa": "Hardcover",
+        "premios": [
+            "Goodreads Choice Award for Historical Fiction and for Debut Novel (2023)",
+            " Book of the Month Book of the Year Award Nominee (2023)"
+        ]
+    },
+    {
+        "genero": "Debut Novel",
+        "titulo": "Ink Blood Sister Scribe",
+        "autor": "Emma Törzs",
+        "precio": 12.99,
+        "puntuacion": 4.04,
+        "fecha_publicacion": "30/05/2023",
+        "n_paginas": 416,
+        "tapa": "Hardcover",
+        "premios": [
+            "Locus Award Nominee for First Novel (2024)",
+            " Minnesota Book Award for Genre Fiction (2024)",
+            " Goodreads Choice Award Nominee for Fantasy and for Debut Novel (2023)"
+        ]
+    },
+    {
+        "genero": "Debut Novel",
+        "titulo": "Pineapple Street",
+        "autor": "Jenny Jackson",
+        "precio": 12.99,
+        "puntuacion": 3.57,
+        "fecha_publicacion": "07/03/2023",
+        "n_paginas": 304,
+        "tapa": "Hardcover",
+        "premios": [
+            "Goodreads Choice Award Nominee for Fiction and for Debut Novel (2023)"
+        ]
+    },
+    {
+        "genero": "Debut Novel",
+        "titulo": "Maame",
+        "autor": "Jessica George",
+        "precio": "Kindle Unlimited $0.00",
+        "puntuacion": 4.07,
+        "fecha_publicacion": "31/01/2023",
+        "n_paginas": 320,
+        "tapa": "Hardcover",
+        "premios": [
+            "Audie Award Nominee for Fiction (2024)",
+            " ALA Alex Award (2024)",
+            " Goodreads Choice Award Nominee for Fiction and for Debut Novel (2023)",
+            " Book of the Month Book of the Year Award Nominee (2023)"
+        ]
+    },
+    {
+        "genero": "Debut Novel",
+        "titulo": "The September House",
+        "autor": "Carissa Orlando",
+        "precio": 14.99,
+        "puntuacion": 3.92,
+        "fecha_publicacion": "05/09/2023",
+        "n_paginas": 344,
+        "tapa": "Hardcover",
+        "premios": [
+            "Goodreads Choice Award Nominee for Horror and for Debut Novel (2023)"
+        ]
+    },
+    {
+        "genero": "Debut Novel",
+        "titulo": "Looking for Jane",
+        "autor": "Heather Marshall",
+        "precio": 13.99,
+        "puntuacion": 4.37,
+        "fecha_publicacion": "01/03/2022",
+        "n_paginas": 400,
+        "tapa": "Hardcover",
+        "premios": [
+            "Goodreads Choice Award Nominee for Historical Fiction and for Debut Novel (2023)"
+        ]
+    },
+    {
+        "genero": "Debut Novel",
+        "titulo": "Adelaide",
+        "autor": "Genevieve Wheeler",
+        "precio": "Kindle Unlimited $0.00",
+        "puntuacion": 3.96,
+        "fecha_publicacion": "18/04/2023",
+        "n_paginas": 304,
+        "tapa": "Hardcover",
+        "premios": [
+            "Goodreads Choice Award Nominee for Debut Novel (2023)",
+            " Book of the Month Book of the Year Award Nominee (2023)",
+            " She Reads Best of Award Nominee for Contemporary Fiction and Best Debut (2023)"
+        ]
+    },
+    {
+        "genero": "Nonfiction",
+        "titulo": "Poverty, by America",
+        "autor": "Matthew Desmond",
+        "precio": 13.99,
+        "puntuacion": 4.27,
+        "fecha_publicacion": "21/03/2023",
+        "n_paginas": 284,
+        "tapa": "Hardcover",
+        "premios": [
+            "Audie Award for Non-Fiction (2024)",
+            " Goodreads Choice Award for Nonfiction (2023)",
+            " Libby Award Nominee for Best Audiobook (2023)"
+        ]
+    },
+    {
+        "genero": "Nonfiction",
+        "titulo": "Butts: A Backstory",
+        "autor": "Heather Radke",
+        "precio": 13.99,
+        "puntuacion": 3.75,
+        "fecha_publicacion": "29/11/2022",
+        "n_paginas": 320,
+        "tapa": "Hardcover",
+        "premios": [
+            "Goodreads Choice Award Nominee for Nonfiction (2023)"
+        ]
+    },
+    {
+        "genero": "Nonfiction",
+        "titulo": "The Art Thief: A True Story of Love, Crime, and a Dangerous Obsession",
+        "autor": "Michael Finkel",
+        "precio": 14.99,
+        "puntuacion": 3.98,
+        "fecha_publicacion": "22/06/2023",
+        "n_paginas": 224,
+        "tapa": "Hardcover",
+        "premios": [
+            "Audie Award Nominee for Best Non-Fiction Narrator (2024)",
+            " Goodreads Choice Award Nominee for Nonfiction (2023)"
+        ]
+    },
+    {
+        "genero": "Nonfiction",
+        "titulo": "8 Rules of Love: How to Find It, Keep It, and Let It Go",
+        "autor": "Jay Shetty",
+        "precio": 14.99,
+        "puntuacion": 3.94,
+        "fecha_publicacion": "31/01/2023",
+        "n_paginas": 309,
+        "tapa": "Hardcover",
+        "premios": [
+            "Goodreads Choice Award Nominee for Nonfiction (2023)"
+        ]
+    },
+    {
+        "genero": "Nonfiction",
+        "titulo": "On Our Best Behavior: The Seven Deadly Sins and the Price Women Pay to Be Good",
+        "autor": "Elise Loehnen",
+        "precio": 14.99,
+        "puntuacion": 3.81,
+        "fecha_publicacion": "23/05/2023",
+        "n_paginas": 384,
+        "tapa": "Hardcover",
+        "premios": [
+            "Goodreads Choice Award Nominee for Nonfiction (2023)"
+        ]
+    },
+    {
+        "genero": "Nonfiction",
+        "titulo": "Doppelganger: A Trip into the Mirror World",
+        "autor": "Naomi Klein",
+        "precio": 14.99,
+        "puntuacion": 4.23,
+        "fecha_publicacion": "12/09/2023",
+        "n_paginas": 416,
+        "tapa": "Hardcover",
+        "premios": [
+            "National Book Critics Circle Award Nominee for Criticism (2023)",
+            " Goodreads Choice Award Nominee for Nonfiction (2023)",
+            " Writers' Prize Nominee for Nonfiction (2024)",
+            " Women's Prize for Non-Fiction (2024)",
+            " Libby Award Nominee for Best Memoir & Autobiography (2023)"
+        ]
+    },
+    {
+        "genero": "Nonfiction",
+        "titulo": "Outlive: The Science and Art of Longevity",
+        "autor": "Peter Attia",
+        "precio": 14.99,
+        "puntuacion": 4.38,
+        "fecha_publicacion": "28/03/2023",
+        "n_paginas": 496,
+        "tapa": "Hardcover",
+        "premios": [
+            "Goodreads Choice Award Nominee for Nonfiction (2023)"
+        ]
+    },
+    {
+        "genero": "Memoir & Autobiography",
+        "titulo": "The Woman in Me",
+        "autor": "Britney Spears",
+        "precio": 16.99,
+        "puntuacion": 3.88,
+        "fecha_publicacion": "24/10/2023",
+        "n_paginas": 288,
+        "tapa": "Hardcover",
+        "premios": [
+            "British Book Award Nominee for Non-Fiction: Narrative (2024)",
+            " Audie Award Nominee for Best Non-Fiction Narrator (2024)",
+            " Australian Book Industry Award (ABIA) Nominee for International Book (2024)",
+            " Goodreads Choice Award for Memoir or Autobiography (2023)",
+            " She Reads Best of Award for Best Memoir (2023)"
+        ]
+    },
+    {
+        "genero": "Memoir & Autobiography",
+        "titulo": "Spare",
+        "autor": "Prince Harry",
+        "precio": 17.99,
+        "puntuacion": 3.86,
+        "fecha_publicacion": "10/01/2023",
+        "n_paginas": 410,
+        "tapa": "Hardcover",
+        "premios": [
+            "British Book Award Nominee for Non-Fiction: Narrative and for Audiobook: Non-Fiction (2024)",
+            " Australian Book Industry Award (ABIA) Nominee for International Book (2024)",
+            " Goodreads Choice Award Nominee for Memoir or Autobiography (2023)"
+        ]
+    },
+    {
+        "genero": "Memoir & Autobiography",
+        "titulo": "Pageboy: A Memoir",
+        "autor": "Elliot Page",
+        "precio": 11.99,
+        "puntuacion": 3.75,
+        "fecha_publicacion": "06/06/2023",
+        "n_paginas": 288,
+        "tapa": "Hardcover",
+        "premios": [
+            "British Book Award Nominee for Discover (2024)",
+            " Goodreads Choice Award Nominee for Memoir or Autobiography (2023)",
+            " Libby Award for Best Memoir & Autobiography (2023)"
+        ]
+    },
+    {
+        "genero": "Memoir & Autobiography",
+        "titulo": "You Could Make This Place Beautiful",
+        "autor": "Maggie Smith",
+        "precio": 14.99,
+        "puntuacion": 4.09,
+        "fecha_publicacion": "11/04/2023",
+        "n_paginas": 320,
+        "tapa": "Hardcover",
+        "premios": [
+            "Goodreads Choice Award Nominee for Memoir or Autobiography (2023)",
+            " Libby Award Nominee for Best Memoir & Autobiography (2023)"
+        ]
+    },
+    {
+        "genero": "Memoir & Autobiography",
+        "titulo": "Counting the Cost",
+        "autor": "Jill Duggar",
+        "precio": 14.99,
+        "puntuacion": 4.1,
+        "fecha_publicacion": "12/09/2023",
+        "n_paginas": 288,
+        "tapa": "Hardcover",
+        "premios": [
+            "Goodreads Choice Award Nominee for Memoir or Autobiography (2023)"
+        ]
+    },
+    {
+        "genero": "Memoir & Autobiography",
+        "titulo": "All My Knotted-Up Life: A Memoir",
+        "autor": "Beth Moore",
+        "precio": 15.07,
+        "puntuacion": 4.47,
+        "fecha_publicacion": "21/02/2023",
+        "n_paginas": 304,
+        "tapa": "Hardcover",
+        "premios": [
+            "Goodreads Choice Award Nominee for Memoir or Autobiography (2023)"
+        ]
+    },
+    {
+        "genero": "Memoir & Autobiography",
+        "titulo": "Paris: The Memoir",
+        "autor": "Paris Hilton",
+        "precio": 12.99,
+        "puntuacion": 4.22,
+        "fecha_publicacion": "14/03/2023",
+        "n_paginas": 336,
+        "tapa": "Hardcover",
+        "premios": [
+            "Goodreads Choice Award Nominee for Memoir or Autobiography (2023)"
+        ]
+    },
+    {
+        "genero": "History & Biography",
+        "titulo": "The Wager: A Tale of Shipwreck, Mutiny and Murder",
+        "autor": "David Grann",
+        "precio": 14.99,
+        "puntuacion": 4.2,
+        "fecha_publicacion": "18/04/2023",
+        "n_paginas": 331,
+        "tapa": "Hardcover",
+        "premios": [
+            "Audie Award Nominee for Best Non-Fiction Narrator (2024)",
+            " Goodreads Choice Award for History/Biography (2023)",
+            " Barnes & Noble Book of the Year Award Nominee (2023)",
+            " Libby Award for Best Adult Nonfiction (2023)"
+        ]
+    },
+    {
+        "genero": "History & Biography",
+        "titulo": "The Six: The Untold Story of America's First Women Astronauts",
+        "autor": "Loren Grush",
+        "precio": 16.99,
+        "puntuacion": 4.37,
+        "fecha_publicacion": "05/09/2023",
+        "n_paginas": 432,
+        "tapa": "Hardcover",
+        "premios": [
+            "Goodreads Choice Award Nominee for History/Biography (2023)"
+        ]
+    },
+    {
+        "genero": "History & Biography",
+        "titulo": "Killing the Witches: The Horror of Salem, Massachusetts",
+        "autor": "Bill O'Reilly",
+        "precio": "Shop this series",
+        "puntuacion": 3.69,
+        "fecha_publicacion": "26/09/2023",
+        "n_paginas": 291,
+        "tapa": "Hardcover",
+        "premios": [
+            "Goodreads Choice Award Nominee for History/Biography (2023)"
+        ]
+    },
+    {
+        "genero": "History & Biography",
+        "titulo": "King: A Life",
+        "autor": "Jonathan Eig",
+        "precio": 16.99,
+        "puntuacion": 4.68,
+        "fecha_publicacion": "16/05/2023",
+        "n_paginas": 688,
+        "tapa": "Hardcover",
+        "premios": [
+            "Pulitzer Prize for Biography (2024)",
+            " National Book Award Nominee for Non-Fiction (2023)",
+            " Audie Award for Best Non-Fiction Narrator (2024)",
+            " National Book Critics Circle Award Nominee for Biography (2023)",
+            " Goodreads Choice Award Nominee for History/Biography (2023)",
+            " Libby Award Nominee for Best Audiobook (2023)"
+        ]
+    },
+    {
+        "genero": "History & Biography",
+        "titulo": "Valiant Women: The Extraordinary American Servicewomen Who Helped Win World War II",
+        "autor": "Lena Andrews",
+        "precio": 13.99,
+        "puntuacion": 4.01,
+        "fecha_publicacion": "01/08/2023",
+        "n_paginas": 351,
+        "tapa": "Hardcover",
+        "premios": [
+            "Goodreads Choice Award Nominee for History/Biography (2023)"
+        ]
+    },
+    {
+        "genero": "History & Biography",
+        "titulo": "Black AF History: The Un-Whitewashed Story of America",
+        "autor": "Michael Harriot",
+        "precio": 13.99,
+        "puntuacion": 4.6,
+        "fecha_publicacion": "19/09/2023",
+        "n_paginas": 432,
+        "tapa": "Hardcover",
+        "premios": [
+            "Goodreads Choice Award Nominee for History/Biography (2023)",
+            " NAACP Image Award Nominee for Nonfiction (2024)"
+        ]
+    },
+    {
+        "genero": "History & Biography",
+        "titulo": "A Fever in the Heartland: The Ku Klux Klan's Plot to Take Over America, and the Woman Who Stopped Them",
+        "autor": "Timothy Egan",
+        "precio": 12.99,
+        "puntuacion": 4.39,
+        "fecha_publicacion": "04/04/2023",
+        "n_paginas": 432,
+        "tapa": "Hardcover",
+        "premios": [
+            "Anthony Award Nominee for Best Critical/Nonfiction Work (2024)",
+            " Robert F. Kennedy Book Award for Special Recognition (2024)",
+            " Goodreads Choice Award Nominee for History/Biography (2023)"
+        ]
+    },
+    {
+        "genero": "Humor",
+        "titulo": "Being Henry: The Fonz . . . and Beyond",
+        "autor": "Henry Winkler",
+        "precio": 14.99,
+        "puntuacion": 4.16,
+        "fecha_publicacion": "31/10/2023",
+        "n_paginas": 246,
+        "tapa": "Hardcover",
+        "premios": [
+            "Goodreads Choice Award for Humor (2023)"
+        ]
+    },
+    {
+        "genero": "Humor",
+        "titulo": "Leslie F*cking Jones",
+        "autor": "Leslie Jones",
+        "precio": 14.99,
+        "puntuacion": 4.13,
+        "fecha_publicacion": "19/09/2023",
+        "n_paginas": 288,
+        "tapa": "Hardcover",
+        "premios": [
+            "Audie Award for Humor (2024)",
+            " Goodreads Choice Award Nominee for Humor (2023)"
+        ]
+    },
+    {
+        "genero": "Humor",
+        "titulo": "Sure, I'll Join Your Cult: A Memoir of Mental Illness and the Quest to Belong Anywhere",
+        "autor": "Maria Bamford",
+        "precio": 14.99,
+        "puntuacion": 3.8,
+        "fecha_publicacion": "05/09/2023",
+        "n_paginas": 287,
+        "tapa": "Hardcover",
+        "premios": [
+            "Los Angeles Times Book Prize Nominee for Audiobook (2023)",
+            " Goodreads Choice Award Nominee for Humor (2023)"
+        ]
+    },
+    {
+        "genero": "Humor",
+        "titulo": "Tough Titties: On Living Your Best Life When You're the F-ing Worst",
+        "autor": "Laura Belgray",
+        "precio": 14.99,
+        "puntuacion": 3.57,
+        "fecha_publicacion": "No disponible",
+        "n_paginas": 320,
+        "tapa": "Hardcover",
+        "premios": [
+            "Goodreads Choice Award Nominee for Humor (2023)"
+        ]
+    },
+    {
+        "genero": "Humor",
+        "titulo": "Quietly Hostile: Essays",
+        "autor": "Samantha Irby",
+        "precio": 4.99,
+        "puntuacion": 3.71,
+        "fecha_publicacion": "16/05/2023",
+        "n_paginas": 290,
+        "tapa": "Paperback",
+        "premios": [
+            "Goodreads Choice Award Nominee for Humor (2023)"
+        ]
+    },
+    {
+        "genero": "Humor",
+        "titulo": "Strong Female Character",
+        "autor": "Fern Brady",
+        "precio": 14.99,
+        "puntuacion": 4.49,
+        "fecha_publicacion": "14/02/2023",
+        "n_paginas": 288,
+        "tapa": "Hardcover",
+        "premios": [
+            "British Book Award for Audiobook: Non-Fiction (2024)",
+            " Goodreads Choice Award Nominee for Humor (2023)",
+            " Nero Book Award for Non-Fiction (2023)"
+        ]
+    },
+    {
+        "genero": "Humor",
+        "titulo": "Unruly: A History of England's Kings and Queens",
+        "autor": "David Mitchell",
+        "precio": 13.99,
+        "puntuacion": 4.17,
+        "fecha_publicacion": "28/09/2023",
+        "n_paginas": 431,
+        "tapa": "Hardcover",
+        "premios": [
+            "British Book Award Nominee for Audiobook: Non-Fiction (2024)",
+            " Goodreads Choice Award Nominee for Humor (2023)"
+        ]
+    }
+]
