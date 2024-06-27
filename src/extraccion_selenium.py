@@ -8,6 +8,12 @@ from datetime import datetime
 
 def extraer ():
 
+    """
+    Funcion especifica para scrapear la web de goodreads y extraer informacion sobre libros
+    Retorna una lista de diccionarios y cada diccionario corresponde a un libro
+
+    """
+
     # Inicializar Chrome 
     driver = webdriver.Chrome()
 
@@ -28,7 +34,7 @@ def extraer ():
         sleep(2)
 
         # Iterar por libro de la lista
-        for i in range(3, 10): #3 a 23# en casi todas las listas hay 20 libros
+        for i in range(11, 23): #3 a 23# en casi todas las listas hay 20 libros
 
             diccionario = {}
             # Cerrar ventana inicio sesion

@@ -1,7 +1,16 @@
 import json
 
 def transformacion_guardado (lista, ruta):
-    for i, e in enumerate(lista):
+
+    """
+    Esta funcion realiza transformaciones en una lista de diccionarios y la guarda como JSON
+
+    Args:
+    lista: lista de diccionarios extraida en la funcion 'extraccion'
+    ruta: ruta donde queramos guardar el JSON
+    """
+
+    for e in lista:
         e['genero'] = e['genero'].strip()
         try:
             e['precio'] = float(e['precio'].replace('Kindle $', ''))
