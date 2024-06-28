@@ -24,17 +24,17 @@ Cuenta en Telegram y un bot creado (obtener token desde @BotFather)
 Estan agrupadas en el archivo requirements.txt
 Puedes instalar todas las dependencias usando el siguiente comando:
 
-'''bash
-Copiar código
-pip install -r requirements.txt'''
+```
+pip install -r requirements.txt
+```
 
 # 4. 🔧 Instalación
 
 ## Clona el repositorio:
-'''bash
-Copiar código
-git clone https://github.com/tu_usuario/tu_proyecto.git
-cd tu_proyecto'''
+```
+git clone https://github.com/saira2911/libros.git
+cd libros
+```
 
 ## Configura MongoDB:
 - Asegúrate de tener MongoDB instalado y corriendo en tu máquina, o puedes usar Atlas.
@@ -46,14 +46,15 @@ cd tu_proyecto'''
 - Añade el token del bot en el archivo .env creado antes: TELEGRAM_TOKEN = 'tu_token'
 
 ## Ejecuta los scripts de extracción, transformación y carga:
-'''bash
-Copiar código
-python etl.py'''
+```
+python etl.py
+```
 
 ## Inicia el bot de Telegram:
-'''bash
-Copiar código
-python bot.py'''
+```
+python bot.py
+```
+
 
 # 5. 👀 Uso
 
@@ -62,8 +63,8 @@ python bot.py'''
 
 # 6. 🧩 Estructura del Proyecto
 
-'''plaintext
-Copiar código
+```
+
 ├── README.md
 ├── requirements.txt
 ├── etl.py
@@ -74,6 +75,7 @@ Copiar código
     ├── extraccion_selenium.py
     ├── transformacion.py
     └── carga.py
+```
 
 
 etl.py: Script principal para la extracción, transformación y carga de datos.
