@@ -10,6 +10,7 @@ def extraer ():
 
     """
     Funcion especifica para scrapear la web de goodreads y extraer informacion sobre libros
+    
     Retorna una lista de diccionarios y cada diccionario corresponde a un libro
 
     """
