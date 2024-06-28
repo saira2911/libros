@@ -79,8 +79,11 @@ python bot.py
 
 
 etl.py: Script principal para la extracción, transformación y carga de datos.
+
 bot.py: Script para iniciar el bot de Telegram.
+
 src/: Contiene los módulos para scraping, transformación y carga de datos.
+
 files/: Directorio para almacenar datos en bruto y procesados.
 
 # 7. ⭐ Aportaciones 
